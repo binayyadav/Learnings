@@ -4,6 +4,7 @@
 
 **Step 3:**  This window opens up - generate drill file
 ![image](https://user-images.githubusercontent.com/32264646/65579476-6fc7d880-df95-11e9-93dc-900bc1a6fab7.png)
+
 The image above shows the many different layers that are used in this example project. In general, there are only 10 layers that are required for PCB fabrication and assembly (paste layers not required for fabrication only):
 Top Copper (Top) + Top Soldermask (F.Mask) + Top Silkscreen (F.SilkS) + Top Paste (F.Paste)
 Bottom Copper (Bottom) + Bottom Soldermask (B.Mask) + Bottom Silkscreen (B.SilkS) + Bottom Paste (B.Paste)
