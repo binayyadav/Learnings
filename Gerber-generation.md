@@ -11,10 +11,12 @@ Board outline (Edge.Cuts)
 Drill file (not shown in image above)
 
 
+
 **Note :** Make sure the Plot format is set to ‘Gerber’ and all the aforementioned layers have been selected. Next, you will click on the ‘Generate Drill File’ button. You will be using the default values here. Click on ‘Drill File’ or press enter to generate the drill file (see image below):
 
 
 ![image](https://user-images.githubusercontent.com/32264646/65579655-caf9cb00-df95-11e9-9b44-b75f0f5592ee.png)
+
 
 **step 4:** Click on plot to generate a the gerber files
 
